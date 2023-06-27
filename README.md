@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EtiMighty
-- 👀 I’m interested in creating partnerships gorthe creation of viable blockchain softwares/bots
+- 👀 I’m interested in creating partnerships for the creation of viable blockchain softwares/bots
 - 🌱 I’m currently learning the very basics of coding.
 - 💞️ I’m looking to collaborate on the creation of: 1. Statistical arbitrage auto trading software.  
 - 📫 You can reach me via email: contact@zelhub.com
